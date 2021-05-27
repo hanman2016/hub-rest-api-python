@@ -1,10 +1,10 @@
 # Edit this file to match your environment and
 # copy it to .restconfig.json, and delete these two (comment) lines
 {
- "username": "",
- "password": "",
- "baseurl": "https://127.0.0.1",
+ "username": "bdreporter",
+ "password": "puQzc9Eec.tuVbkg-9",
+ "baseurl": "https://jda.blackducksoftware.com",
  "insecure": true,
- "debug": true
+ "debug": false
 
 }
